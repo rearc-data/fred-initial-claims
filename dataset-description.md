@@ -1,0 +1,1 @@
+This release contains information on initial claims, which are claims filled out by an unemployed individual who has parted with their employer. The claims determine whether this individual is eligible for the Unemployment Insurance Program.
