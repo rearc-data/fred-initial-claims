@@ -1,6 +1,7 @@
 <a href="https://www.rearc.io/data/">
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
+
 Initial Claims in the U.S. | FRED
 =========================
 
