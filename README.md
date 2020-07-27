@@ -5,7 +5,7 @@
 Initial Claims in the U.S. | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-sfirwauenusyg](https://aws.amazon.com/marketplace/pp/prodview-sfirwauenusyg).
 
 ## Main Overview
 
